@@ -11,7 +11,7 @@
 <div style="background: linear-gradient(135deg, #8B0000 0%, #DC143C 50%, #8B0000 100%); border-radius: 16px; padding: 20px; max-width: 600px; border: 2px solid #FF6B6B;">
   <h3 style="color: white; margin: 0;"> About Me</h3>
   <p style="color: #FFE4E1; font-size: 16px; line-height: 1.6;">
-    I'm <b>14</b>, turning <b>15 on June 25</b>! I love <b>Minecraft</b> and I'm still learning <b>Lua</b>. 
+    I'm <b>14</b>, turning <b>15 on June 25</b> I love <b>Minecraft</b> and I'm still learning <b>Lua</b>. 
     Happy to be taught and always looking to improve my skills!
   </p>
 </div>
@@ -27,7 +27,7 @@
       <br>
       <b>Lua</b>
       <br>
-      <sub>Learning</sub>
+      <sub>Learning | know </sub>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.simpleicons.org/minecraft/62B47A" width="60" height="60" alt="Skript"/>
