@@ -15,7 +15,7 @@
 <h2 align="center"> Skills</h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Lua-Learning-DC143C?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+ <img src="https://img.shields.io/badge/Lua-Learning-DC143C?style=for-the-badge&logo=lua&logoColor=white" alt="Lua, love it" />
  <img src="https://img.shields.io/badge/Skript-Know-DC143C?style=for-the-badge&logo=minecraft&logoColor=white" alt="Skript" />
 </p>
 
