@@ -9,7 +9,7 @@
 <h2 align="center"> About Me</h2>
 
 <p align="center">
- I'm <b>14</b>, turning <b>15 on June 25</b>! I love <b>Minecraft</b> and I'm still learning <b>Lua</b>. Happy to be taught!
+ I'm <b>14</b>, turning <b>15 on June 25</b>! I love <b>Minecraft</b> and I'm still learning <b>Lua,  but like i STILL LOVE IT! learning everyday</b>. Happy to be taught!
 </p>
 
 <h2 align="center"> Skills</h2>
