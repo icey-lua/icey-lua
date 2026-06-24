@@ -1,7 +1,6 @@
-<p align="center">
- # ***icey-lua*** u here babyyyyayahahahah
-</p>
 
+ # ***icey-lua*** u here babyyyyayahahahah
+ 
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=14+years+old;Turning+15+on+June+25!;Love+Minecraft;Still+learning+Lua;Happy+to+be+taught!" alt="Typing Animation" />
 </p>
