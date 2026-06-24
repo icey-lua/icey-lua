@@ -1,5 +1,5 @@
 <p align="center">
- <img src="dueidieidjfjdje/api?type=waving&color=DC143C&height=150&section=header&text=icey-lua&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+ icey-lua u here babyyyyayahahahah
 </p>
 
 <p align="center">
