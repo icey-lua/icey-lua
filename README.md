@@ -2,13 +2,13 @@
 # ***icey-lua*** u here babyyyyayahahahah
  
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=14+years+old;Turning+15+on+June+25!;Love+Minecraft;Still+learning+Lua;Happy+to+be+taught!" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=15+years+old;Turned+15+on+June+25!;Love+Minecraft;Still+learning+Lua;Happy+to+be+taught!" alt="Typing Animation" />
 </p>
 
 <h2 align="center"> About Me</h2>
 
 <p align="center">
- I'm <b>14</b>, turning <b>15 on June 25</b>! I love <b>Minecraft</b> and I'm still learning <b>Lua,  but like i STILL LOVE IT! learning everyday</b>. Happy to be taught!
+ I'm <b>15</b>, turnee <b>15 on June 25</b>! I love <b>Minecraft</b> and I'm still learning <b>Lua,  but like i STILL LOVE IT! learning everyday</b>. Happy to be taught!
 </p>
 
 <h2 align="center"> Skills</h2>
